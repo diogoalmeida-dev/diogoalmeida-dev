@@ -7,8 +7,9 @@
 
 ## 🧠 My Focus Areas
 - AI/ML Research
+- Data Science
+- Algorithms
 - Web Development
-- Data Structures & Algorithms
 
 
 ## 🛠️ Languages & Tools
