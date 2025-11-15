@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Diogo Almeida</h1>
-<h3 align="center">AI Researcher | Masters Student | AILA</h3>
+<h3 align="center">AI Researcher | Masters Student </h3>
 
 ## 📌 About Me
 - I’m a master’s student in Computer Engineering at the University of Algarve, originally from Lisbon, currently doing AI research on the AILA project (AI Legal Assistant) for the University of Algarve.
